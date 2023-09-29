@@ -1,9 +1,8 @@
-# Hi there 👋
+# []()Hi there 👋
+#### []()My name is Evgenii Piratinskii, and you are now on my GitHub page. Here, you can see some of my projects from my studies, previous workplaces (excluding those under NDA), and my pet projects 🐾.
 
-#### My name is Evgenii Piratinskii, and you are now on my GitHub page. Here, you can see some of my projects from my studies, previous workplaces (excluding those under NDA), and my pet projects 🐾. ()
+#### []()For your convenience, I've provided a simple menu below:
 
-
-#### For your convenience, I've provided a simple menu below:
 ## College projects
 ### :calendar: 2023
 #### <img src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" height="20" style="vertical-align: middle;" title="Written in Python"></img> [Cryptography-based voting system](https://github.com/piratinskii/votes_project) - Project showcasing the application of various cryptographic practices, such as ZKP, encryption, and digital signatures. 
