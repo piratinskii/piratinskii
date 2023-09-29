@@ -1,4 +1,5 @@
-# []()Hi there 👋
+<div align=center><h1>Hi there 👋</h1></div>
+
 #### []()My name is Evgenii Piratinskii, and you are now on my GitHub page. Here, you can see some of my projects from my studies, previous workplaces (excluding those under NDA), and my pet projects 🐾.
 
 #### []()For your convenience, I've provided a simple menu below:
