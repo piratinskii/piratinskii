@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### My name is Evgenii Piratinskii, and you are now on my GitHub page. Here, you can see some of my projects from my studies, previous workplaces (excluding those under NDA), and my pet projects 🐾.
+### For your convenience, I've provided a simple menu below:
+
 
 <!--
 **piratinskii/piratinskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
