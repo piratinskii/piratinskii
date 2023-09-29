@@ -1,4 +1,7 @@
-<div align=center><h1>Hi there 👋</h1></div>
+<div align=center>
+  <h1><a href=""></a>Hi there 👋</h1>
+</div>
+
 
 #### []()My name is Evgenii Piratinskii, and you are now on my GitHub page. Here, you can see some of my projects from my studies, previous workplaces (excluding those under NDA), and my pet projects 🐾.
 
@@ -27,5 +30,5 @@
 #### []() :exclamation: I am currently actively seeking employment and would be very pleased if you consider my application. You can use the following contacts to get in touch with me:
 ##### []() :phone: +972 573 351 81 18
 ##### []() :email: piratisrael@gmail.com
-##### []() <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="20" style="vertical-align: middle;" title="Written in Python"></img> [LinkedIn](https://www.linkedin.com/in/piratinskiy/)
+##### []() <img src="linkedin.svg" height="20" style="vertical-align: middle;" title="My LinkedIN"></img> [LinkedIn](https://www.linkedin.com/in/piratinskiy/)
 #### []() And, of couse, you can [read my CV](https://docs.google.com/document/d/1wAEELazL8WEoBTlQG7YH2BZiEgfx-MsYSMufA9WblIU/edit?usp=sharing) 
