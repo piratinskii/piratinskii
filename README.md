@@ -9,14 +9,10 @@
 
 <br>
 
-## []()College projects
-<div align=right><h5><a href=""></a>📆 2023</h5></div>
-
-#### []()<img src="python.png" height="15" style="vertical-align: middle;" title="Written in Python"></img> [Cryptography-based voting system](https://github.com/piratinskii/votes_project) - Project showcasing the application of various cryptographic practices, such as ZKP, encryption, and digital signatures. 
-
+## []()Projects from past jobs (not NDA)
 <div align=right><h5><a href=""></a>📆 2022</h5></div>
 
-#### []()<img src="java.png" height="15" style="vertical-align: middle;" title="Written in Java"></img> <img src="js.png" height="15" style="vertical-align: middle;" title="Written in JavaScript"></img> [Cafeteria Management System Backend](https://github.com/piratinskii/SCECafe-backend) and [Frontend](https://github.com/piratinskii/SCECafe-frontend) - RESTful application for management of a cafeteria. Included customer, waiter, and supervisor interfaces. It was my first "big" RESTful application and first full-stack application. Also, it was my first experience with Spring and React. 
+####  []()<img src="python.png" height="15" style="vertical-align: middle;" title="Written in Python"></img> [Edu Automator (Automated student registration system)](https://github.com/piratinskii/EduAutomator/) - in this project I had to automatizate some proccess in our company. All our students were entered into a registry located in Google Sheets. My task was to ensure that once all the student's data was filled out, my system would register that student on our Moodle portal. Then, it would check if the course they enrolled in already existed in Moodle. If it did, the system would enroll the user in that course and send a welcome email with login credentials. Otherwise, it would send an email to the administrator indicating the need to add the course to the portal. Written in Python, using API of Google and Moodle.
 
 <br>
 
@@ -27,10 +23,14 @@
 
 <br>
 
-## []()Projects from past jobs (excluding NDA)
+## []()College projects
+<div align=right><h5><a href=""></a>📆 2023</h5></div>
+
+#### []()<img src="python.png" height="15" style="vertical-align: middle;" title="Written in Python"></img> [Cryptography-based voting system](https://github.com/piratinskii/votes_project) - Project showcasing the application of various cryptographic practices, such as ZKP, encryption, and digital signatures. 
+
 <div align=right><h5><a href=""></a>📆 2022</h5></div>
 
-####  []()<img src="python.png" height="15" style="vertical-align: middle;" title="Written in Python"></img> [Automated student registration system](https://github.com/piratinskii/MoodleAPI) - in this project I had to automatizate some proccess in our company. All our students were entered into a registry located in Google Sheets. My task was to ensure that once all the student's data was filled out, my system would register that student on our Moodle portal. Then, it would check if the course they enrolled in already existed in Moodle. If it did, the system would enroll the user in that course and send a welcome email with login credentials. Otherwise, it would send an email to the administrator indicating the need to add the course to the portal. Written in Python, using API of Google and Moodle.
+#### []()<img src="java.png" height="15" style="vertical-align: middle;" title="Written in Java"></img> <img src="js.png" height="15" style="vertical-align: middle;" title="Written in JavaScript"></img> [Cafeteria Management System Backend](https://github.com/piratinskii/SCECafe-backend) and [Frontend](https://github.com/piratinskii/SCECafe-frontend) - RESTful application for management of a cafeteria. Included customer, waiter, and supervisor interfaces. It was my first "big" RESTful application and first full-stack application. Also, it was my first experience with Spring and React. 
 
 <br>
 
