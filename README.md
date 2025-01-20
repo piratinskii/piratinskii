@@ -43,11 +43,6 @@
 
 <br>
 
-## []()P.P.S. About me
-#### []() :exclamation: I am currently actively seeking employment and would be very pleased if you consider my application. You can use the following contacts to get in touch with me:
-
 <h4><img src='phone.png' width='20' style="vertical-align: middle; margin-right: 10px"><a href="https://www.linkedin.com/in/piratinskiy/" ><a href=""></a> +972 573 351 81 18<br>
 <img src='mail.png' width='20' style="vertical-align: middle; margin-right: 10px"><a href="https://www.linkedin.com/in/piratinskiy/"><a href="mailto:piratisrael@gmail.com"> piratisrael@gmail.com</a><br>
 <img src='linkedin.png' width='20' style="vertical-align: middle; margin-right: 10px"><a href="https://www.linkedin.com/in/piratinskiy/"> LinkedIn</a></h4>  
-
-#### []() And, of couse, you can [read my CV](https://docs.google.com/document/d/14vUhDZW1MRmhqC9PUT31totQNnpSksNkpDgqTj8go74/edit?usp=sharing) 
